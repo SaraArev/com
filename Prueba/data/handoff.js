@@ -1,0 +1,5 @@
+var symbolData ={
+                        "symbolsDict":{},
+                        "layers":[{"c":[{"x":0,"y":0,"w":390,"h":844,"ii":0,"n":"Primera","tp":"ShapePath","c":[{"x":90,"y":169,"w":187,"h":107,"ii":1,"n":"Rectangle 1","tp":"Group","c":[{"x":90,"y":169,"w":187,"h":107,"ii":2,"n":"Rectangle 1","tp":"ShapePath","pr":" border-radius : 29px;\nbackground-color: #D9D9D9;\n"},{"x":103,"y":175,"w":213,"h":94,"ii":3,"n":"HOLA","tp":"Text","tx":"HOLA","pr":"font-family: Poppins;\nfont-size: 64px;\nfont-weight: 400;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000;\n"}]},{"x":-24,"y":343,"w":414,"h":319,"ii":4,"n":"Rectangle 2","tp":"ShapePath","pr":"background-color: #3835C6;\n"}],"pr":"background-color: #FFFFFF;\n"}]},{"c":[{"x":0,"y":0,"w":390,"h":844,"ii":5,"n":"Segunda","tp":"ShapePath","c":[{"x":-12,"y":0,"w":414,"h":319,"ii":6,"n":"Rectangle 2","tp":"ShapePath","pr":"background-color: #3835C6;\n"}],"pr":"background-color: #FFFFFF;\n"}]}],
+                        "styles":[]
+                    }
